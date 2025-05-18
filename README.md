@@ -38,7 +38,7 @@ ollama_rag/
 
 2. **Клонировать репозиторий**
    ```bash
-   git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git
+   git clone https://github.com/Konstantin-39/AI_assistant
    cd ollama_pdf_rag
    ```
 
