@@ -27,7 +27,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_ollama import ChatOllama
 from langchain_core.runnables import RunnablePassthrough
 from langchain.retrievers.multi_query import MultiQueryRetriever
-from typing import List, Tuple, Dict, Any, Optional
+from typing import List, Tuple, Any, Optional
 
 from langchain_community.document_loaders import PyPDFLoader
 
