@@ -1,6 +1,6 @@
 # Локальный AI ассистент: поиск и анализ корпоративных данных с RAG и LLM
 
-Локальное приложение RAG (Retrieval Augmented Generation), позволяющее работать с корпоративными данными внутри локальной сети с помощью Ollama и LangChain. Работа осуществляется в веб-интерфейсе Streamlit для простого взаимодействия с документацией.
+Локальное приложение RAG (Retrieval Augmented Generation), позволяющее работать с данными внутри локальной сети с помощью Ollama и LangChain. Работа осуществляется в веб-интерфейсе Streamlit для простого взаимодействия с документацией.
 
 ## Структура проекта
 ```
@@ -43,8 +43,8 @@ ollama_rag/
 
 3. **Настройка среды**
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: .\venv\Scripts\activate
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows: .\venv\Scripts\activate
    pip install -r requirements.txt
    ```
 
@@ -66,6 +66,3 @@ ollama_rag/
 python run.py
 ```
 Затем откройте браузер `http://localhost:8501`
-
-![Streamlit UI](st_app_ui.png)
-*Интерфейс Streamlit с функциями просмотра файлов и чата*

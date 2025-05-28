@@ -2,10 +2,6 @@
 
 Добро пожаловать в документацию по Ollama PDF RAG, мощному локальному приложению RAG (Retrieval Augmented Generation), которое позволяет вам работать с вашими PDF-документами с помощью Ollama и LangChain.
 
-## Обзор
-
-This project provides both a Streamlit web interface and a Jupyter notebook for experimenting with PDF-based question answering using local language models. All processing happens locally on your machine, ensuring privacy and data security.
-
 ## Основные характеристики
 
 - 🔒 **Полностью локальная обработка**: данные не покидают пределы вашего устройства

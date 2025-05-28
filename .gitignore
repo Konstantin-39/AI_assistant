@@ -6,6 +6,7 @@ __pycache__/
 dist/
 build/
 updated.ipynb
+OGR.pdf
 
 # Virtual Environment
 .venv/
@@ -18,6 +19,7 @@ data/vectors/
 *.log
 .cache
 .pytest_cache/
+src/core/
 
 # Coverage files
 .coverage
