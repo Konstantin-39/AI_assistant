@@ -20,6 +20,7 @@ data/vectors/
 .cache
 .pytest_cache/
 src/core/
+docs/
 
 # Coverage files
 .coverage

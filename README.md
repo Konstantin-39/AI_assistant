@@ -18,8 +18,7 @@ ollama_rag/
 │       ├── llm.py            # LLM setup
 │       └── rag.py            # RAG pipeline
 ├── data/                     # Data
-│   ├── pdfs/                 # PDF-хранилище
-│   │   └── sample/           # PDFs-файлы
+│   ├── pdfs/                 # PDF-хранилище│   │  
 │   └── vectors/              # Vector DB storage
 ├── docs/                     # Документация
 └── run.py                    # Запуск приложения
