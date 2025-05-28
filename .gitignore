@@ -18,11 +18,9 @@ OGR.pdf
 data/vectors/
 *.log
 .cache
-.pytest_cache/
 src/core/
 docs/
 
 # Coverage files
 .coverage
-htmlcov/
 coverage.xml
